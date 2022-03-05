@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding:0;
+    /* border : 1px solid red */
+}
+:root{
+    
+}
+body{
+    display: flex;
+    background-color : #E5E5E5;
+    margin: 0;
+    height: 100vh;
+
+}
+.left{
+    width:60%;
+    position: relative;
+    background-color: #EAFFE2;
+}
+.kotak-besar{
+    background-color : white;
+    border-radius: 12px;
+    font-family: Poppins;
+    position: relative;
+    left: 10%;
+    right: 10%;
+    top: 25vh;
+    text-align: center;
+    position: absolute;
+    display: block;
+    padding: 10px;
+    border: 1px solid red;
+
+}
+label{
+    
+}
+h1{
+    display: block;
+    margin-bottom: 20px;
+    /* border: 1px solid red; */
+    /* margin-bottom: 0; */
+}
+.kotak{
+    display: block;
+    margin: 15px 10%;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+.input{
+    /* width: 26rem; */
+    text-align:left;
+    background-color: #F3F6F8;
+    color: grey;
+}
+.tombol{
+    color: white;
+    background-color:#54BF29;
+    /* width: 26rem; */
+}
+.right{
+    width:40%;
+    background-color: #86E362;
+    position: relative;
+}
+.gambar{
+    position: relative;
+}
+.back{
+    width:100%;
+    transform: translate(0,50%);
+    position:absolute;
+    z-index: 0;
+}
+.front{
+    position:absolute;
+    z-index:1;
+    width:100%
+}
