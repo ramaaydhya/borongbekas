@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
@@ -63,3 +64,8 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+=======
+# borongbekas
+Repo untuk tugas Implementasi Rancangan Perangkat Lunak
+KOMA Kelompok 5 : BorongBekas
+>>>>>>> ba76d658066999e536da5dd72a0188ecd506f840
